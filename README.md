@@ -16,3 +16,25 @@ N-gram用於統計文本單中最常被使用的片語，片語的字數分2字�
 
 網站內容
 ---
+首頁-單字搜尋
+---
+![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/search.png)
+前後搭配詞
+---
+![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/word.png)
+
+搭配詞統計
+---
+![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/word_freq.png)
+
+單字前後句
+---
+![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/sentence.png)
+
+N gram搜尋
+---
+![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/ngramsearch.png)
+
+N gran結果
+---
+![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/ngram.png)
