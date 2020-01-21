@@ -35,6 +35,6 @@ N gram搜尋
 ---
 ![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/ngramsearch.png)
 
-N gran結果
+N gram結果
 ---
 ![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/ngram.png)
