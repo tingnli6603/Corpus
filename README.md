@@ -27,18 +27,24 @@ __前後搭配詞__
 
 ![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/word.png)
 
-搭配詞統計
----
+__搭配詞統計__
+
+顯示搜尋字詞的鄰近字詞統計資料，並依照出現機率排序
+
 ![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/word_freq.png)
 
-單字前後句
----
+__單字前後句__
+
+顯示搜尋字詞的上下句
+
 ![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/sentence.png)
 
-N gram搜尋
----
+__N gram搜尋__
+
+可以搜尋學生常用的字詞組合，依照字詞數量挑選
+
 ![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/ngramsearch.png)
 
-N gram結果
----
+__N gram結果__
+
 ![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/ngram.png)
