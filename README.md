@@ -19,10 +19,12 @@ N-gram用於統計文本單中最常被使用的片語，片語的字數分2字�
 __首頁-單字搜尋__
 
 利用[]可以搜尋字詞的所有詞形變化。藉由不同的搜尋條件，老師可以根據字詞的詞性與學生資料來做區別。
-
 ![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/search.png)
-前後搭配詞
----
+
+__前後搭配詞__
+
+顯示搜尋字詞的鄰近字詞
+
 ![image](https://github.com/tingnli6603/Corpus/blob/master/WebImg/word.png)
 
 搭配詞統計
